@@ -1,0 +1,16 @@
+{
+  "name": "number-to-words-in-azerbaijanian",
+  "version": "1.0.3",
+  "description": "convert your numbers to sentence version easily",
+  "main": "NumberToWords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "word",
+    "js"
+  ],
+  "author": "Nurmehemmed Nebiyev",
+  "license": "ISC"
+}
